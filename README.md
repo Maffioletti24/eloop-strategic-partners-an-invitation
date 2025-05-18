@@ -27,10 +27,23 @@ Convidar desenvolvedores, especialistas em blockchain e profissionais de marketi
 
 ## 📌 Benefícios para os Convidados
 
-- Participação no tokenomics com até **4% do supply** para desenvolvedores e **3% para marketing**
+- Participação direta no bloco “Fundadores e Equipe” com até 15% do token supply
 - Vesting baseado em entregas com liquidez vinculada ao investidor âncora (USD 2M)
 - Reconhecimento institucional como **cofundador**
 - Visibilidade pública no site e GitHub
+
+---
+
+## 🧱 Composição Atual – Fundadores & Equipe (15%)
+
+• 5% (50M ELP): Fundador Principal – Liderança, estratégia e representação  
+• 2% (20M ELP): Co-Fundador 1 – Gestão operacional  
+• 2% (20M ELP): Co-Fundador 2 – Contratos e jurídico  
+• 2% (20M ELP): Co-Fundador 3 – Sustentabilidade e Institucional  
+• 1% (10M ELP): Parceiro Técnico 1 – Blockchain / MVP  
+• 1% (10M ELP): Parceiro Técnico 2 – Marketing ESG / Comunicação  
+• 1% (10M ELP): Parceiro Técnico 3 – Governança e Normatização  
+• 1% (10M ELP): Parceiro Técnico 4 – Qualidade do Projeto e Desenvolvimento  
 
 ---
 
